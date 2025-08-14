@@ -1,0 +1,40 @@
+[
+    {
+        "DistrictName": "BEND F&R",
+        "BurnLinePhone": "541-922-6385",
+        "MainPhone": "541-322-6300",
+        "Website": "https://www.bendoregon.gov/government/departments/fire-ems",
+        "OFDDistrict": "ODF Central Oregon District"
+    },
+    {
+        "DistrictName": "Portland Fire & Rescue",
+        "BurnLinePhone": null,
+        "MainPhone": "503-823-3700",
+        "Website": "https://www.portland.gov/fire",
+        "OFDDistrict": null
+    },
+    {
+        "DistrictName": "SISTERS-CAMP SHERMAN RFPD",
+        "BurnLinePhone": "541-549-2233",
+        "MainPhone": "541-549-0771",
+        "Website": "https://www.sistersfire.com",
+        "OFDDistrict": "ODF Central Oregon District"
+    },
+    {
+      "DistrictName": "LYONS RFD",
+      "BurnLinePhone": "503-859-2410",
+      "MainPhone": "503-859-2410",
+      "Website": "https://www.lyonsrfd.org/",
+      "OFCDistrict": null,
+      "Address": "1114 Main St. PO Box 179. Lyons, OR 97358"
+    },
+    {
+      "DistrictName": "NORTH ALBANY RFPD",
+      "BurnLinePhone": "541-451-1904",
+      "MainPhone": "541-917-7700",
+      "Website": "https://albanyoregon.gov/fire",
+      "OFCDistrict": null,
+      "Address": "1114 Main St. PO Box 179. Lyons, OR 97358"
+    }
+]
+
